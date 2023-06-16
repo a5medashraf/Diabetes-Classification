@@ -1,2 +1,2 @@
-# Diabetes-Classification.
+# Diabetes Classification Using Machine Learning Algorithms
 
