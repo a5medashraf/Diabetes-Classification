@@ -4,6 +4,8 @@
 ## Introduction
 The objective of our project is to diagnostically classify whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. all patients here are females at least 21 years old of Pima Indian heritage.
 
+
+**Kaggle Link:** [https://www.kaggle.com/code/a5medashraf/diabetes-classification-using-ml-models#Scaling-&-Modeling](https://www.kaggle.com/code/a5medashraf/diabetes-classification-using-ml-models/)
 **The Features:** Pregnancies, Glucose, blood pressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction & Age
 ## Methodology
 The methodology consists of **2** methods
