@@ -6,7 +6,9 @@ The objective of our project is to diagnostically classify whether or not a pati
 
 
 **Kaggle Link:** [https://www.kaggle.com/code/a5medashraf/diabetes-classification-using-ml-models#Scaling-&-Modeling](https://www.kaggle.com/code/a5medashraf/diabetes-classification-using-ml-models/)
+
 **The Features:** Pregnancies, Glucose, blood pressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction & Age
+
 ## Methodology
 The methodology consists of **2** methods
 
