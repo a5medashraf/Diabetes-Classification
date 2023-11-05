@@ -61,5 +61,6 @@ We decided to focus on Recall & AUC (Area Under Curve)
 we have found that the KNN model has the highest Recall score and a good AUC score.
 
 **KNN Scores:**
+
 <img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/f98417ae-6902-49be-8dd5-66bd85d12156" width="650" height="350">
 
