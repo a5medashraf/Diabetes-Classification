@@ -1,15 +1,25 @@
 # Diabetes Classification Using Machine Learning Algorithms
 
-Aim :
-To classify / predict whether a patient is prone to diabetes depending on multiple features.
-It is a binary classification with multiple numerical features.
-Dataset Attributes
-Pregnancis : Number of times pregnant
-Glucose : Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-BloodPressure : Diastolic blood pressure (mm Hg)
-SkinThickness : Triceps skin fold thickness (mm)
-Insulin : 2-Hour serum insulin (mu U/ml)
-BMI : Body mass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction : indicates the function which scores likelihood of diabetes based on family history
-Age : Age (years)
-Outcome : Class variable (0 or 1)
+
+## Introduction
+The objective of our project is to diagnostically classify whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. all patients here are females at least 21 years old of Pima Indian heritage.
+
+**The Features:** Pregnancies, Glucose, blood pressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction & Age
+## Methodology
+The methodology consists of **4** methods and there are some limitations on the image that should be captured in **good light** with **high resolution** and **not tilted**.
+
+### Method 1: Data Preprocessing
+
+The following steps are followed in this method:
+1. Removing NaNs 
+2. Balancing the outcome class
+3. Feature Importance
+
+#### 1. Removing NaNs:
+We have found that the Dataset has zero NaN values. However, after some investigations, we have found that the NaNs values were replaced with 0.
+
+
+This graph shows the NaN values after we replaced the zeroes with the NaNs. 
+
+
+### Method 2: Modelling
