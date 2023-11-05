@@ -58,3 +58,6 @@ We decided to focus on Recall & AUC (Area Under Curve)
 | Logistic Regression | 0.718289 | 0.666667|
 | Ensemble            | 0.724623 | 0.705882|
 
+
+<img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/d9a1dde0-3ff1-4546-91f4-f6912e72f3af" width="250" height="250">
+
