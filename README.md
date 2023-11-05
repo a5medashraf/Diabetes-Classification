@@ -6,7 +6,7 @@ The objective of our project is to diagnostically classify whether or not a pati
 
 **The Features:** Pregnancies, Glucose, blood pressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction & Age
 ## Methodology
-The methodology consists of **4** methods and there are some limitations on the image that should be captured in **good light** with **high resolution** and **not tilted**.
+The methodology consists of **2** methods
 
 ### Method 1: Data Preprocessing
 
@@ -15,7 +15,7 @@ The following steps are followed in this method:
 2. Balancing the outcome class
 3. Feature Importance & Outliers
 
-#### 1. Removing NaNs:
+#### 1. Removing NaNs
 We have found that the Dataset has zero NaN values. However, after some investigations, we have found that the NaNs values were replaced with 0.
 so, we dropped all zero values from all the features.
 
@@ -58,6 +58,8 @@ We decided to focus on Recall & AUC (Area Under Curve)
 | Logistic Regression | 0.718289 | 0.666667|
 | Ensemble            | 0.724623 | 0.705882|
 
+we have found that the KNN model has the highest Recall score and a good AUC score.
 
-<img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/d9a1dde0-3ff1-4546-91f4-f6912e72f3af" width="250" height="250">
+**KNN Scores:**
+<img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/d9a1dde0-3ff1-4546-91f4-f6912e72f3af" width="650" height="350">
 
