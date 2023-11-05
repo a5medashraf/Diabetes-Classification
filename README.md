@@ -39,7 +39,9 @@ we have applied a Decision Tree Classifier to see the **feature's importance**.
 ### Method 2: Scaling & Modelling
 #### Scaling
 We have **standardized** the features using **standard scaler**.
+
 Also, we have transformed some features using **QuantileTransformer** as some models assume that the features are **Normally Distributed**.
+
 we have applied a Decision Tree Classifier to see the **feature's importance**. 
 
 #### Modelling
