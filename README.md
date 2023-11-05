@@ -17,11 +17,11 @@ The following steps are followed in this method:
 
 #### 1. Removing NaNs:
 We have found that the Dataset has zero NaN values. However, after some investigations, we have found that the NaNs values were replaced with 0.
+so, we dropped all zero values from all the features.
 
-<img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/26a68d8e-c53d-4704-90c0-c47e251dbec0" width="500" height="300">
-
-
-This graph shows the NaN values after we replaced the zeroes with the NaNs. 
-
+### 2. Balancing the Outcome Class
+We have found that the outcome class is not balanced. so, we decided to use oversampling using smote as our data is small to remove from it.
+as shown below: 
+<img src="<img src="URL_OF_THE_IMAGE" width="150" height="150">
 
 ### Method 2: Modelling
