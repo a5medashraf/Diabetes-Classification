@@ -23,6 +23,6 @@ so, we dropped all zero values from all the features.
 We have found that the outcome class is not balanced. so, we decided to use oversampling using smote as our data is small to remove from it.
 as shown below: 
 
-<img src="[URL_OF_THE_IMAGE](https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/96083576-3296-4379-a843-a2c1af7f5991" width="150" height="150">
+<img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/96083576-3296-4379-a843-a2c1af7f5991" width="250" height="250">
 
 ### Method 2: Modelling
