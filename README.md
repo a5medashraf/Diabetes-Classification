@@ -17,8 +17,8 @@ The following steps are followed in this method:
 
 #### 1. Removing NaNs:
 We have found that the Dataset has zero NaN values. However, after some investigations, we have found that the NaNs values were replaced with 0.
-![alt text](https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/26a68d8e-c53d-4704-90c0-c47e251dbec0)
-<img src="URL_OF_THE_IMAGE" width="150" height="150">
+![nan](https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/26a68d8e-c53d-4704-90c0-c47e251dbec0)
+<img src="https://github.com/a5medashraf/Diabetes-Classification-Using-Machine-Learning-Algorithms/assets/72763763/26a68d8e-c53d-4704-90c0-c47e251dbec0" width="80" height="80">
 
 
 This graph shows the NaN values after we replaced the zeroes with the NaNs. 
